@@ -31,6 +31,7 @@ We welcome contributions from the community! If you’d like to get involved, he
 
 ### 1. Contribute by donating.
 - You can contribute by donating the amount you want at our [Ko-Fi](https://ko-fi.com/artkoffee).
+- You can contribute by paying an subscription at our [Patreon](https://patreon.com/artkoffee).
 
 ### 2. Contribute by joining us.
 - You can join our development team [here](https://support.art-koffee.com/join-us).
